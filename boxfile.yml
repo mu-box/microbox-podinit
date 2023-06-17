@@ -1,4 +1,4 @@
 run.config:
   engine: golang
   engine.config:
-    package: github.com/nanobox-io/nanobox-podinit
+    package: github.com/mu-box/microbox-podinit
